@@ -1,11 +1,12 @@
 [README.md](https://github.com/user-attachments/files/34348876/README.md)
-[![Starred on StarSwap](https://www.fenriryt.me/badge/ineedfoundmyway)](https://www.fenriryt.me/u/ineedfoundmyway?ref=badge)
+
 
 <div align="center">
 
 # N Y C T O P H I L E
 
 <a href="https://github.com/ineedfoundmyway"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=B9FF35&background=080A0B&center=true&vCenter=true&width=860&height=100&lines=ineedfoundmyway+%2F%2F+FULLSTACK;C+%2B+JAVA+%2F%2F+THE+FOUNDATION;CYBERSECURITY+%2F%2F+OFFENSIVE+MINDSET;SENIOR+%40+SBM+OFFSHORE" alt="Animated terminal cycling through fullstack, C and Java, cybersecurity and SBM Offshore" width="100%" /></a>
+[![Starred on StarSwap](https://www.fenriryt.me/badge/ineedfoundmyway)](https://www.fenriryt.me/u/ineedfoundmyway?ref=badge)
 
 </div>
 
