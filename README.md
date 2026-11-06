@@ -8,9 +8,9 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/terminal/identity.png" />
   <img src="assets/terminal/identity.gif" width="100%" alt="Nyctophile terminal: fullstack development, C and Java foundations, offensive research and defensive thinking." />
+  [![Starred on StarSwap](https://www.fenriryt.me/badge/ineedfoundmyway)](https://www.fenriryt.me/u/ineedfoundmyway?ref=badge)
 </picture>
 </a>
-[![Starred on StarSwap](https://www.fenriryt.me/badge/ineedfoundmyway)](https://www.fenriryt.me/u/ineedfoundmyway?ref=badge)
 
 </div>
 
