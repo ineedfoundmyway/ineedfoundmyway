@@ -8,7 +8,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/terminal/identity.png" />
   <img src="assets/terminal/identity.gif" width="100%" alt="Nyctophile terminal: fullstack development, C and Java foundations, offensive research and defensive thinking." />
-  [![Starred on StarSwap](https://www.fenriryt.me/badge/ineedfoundmyway)](https://www.fenriryt.me/u/ineedfoundmyway?ref=badge)
 </picture>
 </a>
 
@@ -204,5 +203,5 @@ Animations are original visual studies, not live scans or security telemetry. Op
 [View the animation source](scripts/render_terminal.py)
 
 </details>
-
+[![Starred on StarSwap](https://www.fenriryt.me/badge/ineedfoundmyway)](https://www.fenriryt.me/u/ineedfoundmyway?ref=badge)
 </div>
