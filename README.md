@@ -203,5 +203,5 @@ Animations are original visual studies, not live scans or security telemetry. Op
 [View the animation source](scripts/render_terminal.py)
 
 </details>
-[![Starred on StarSwap](https://www.fenriryt.me/badge/ineedfoundmyway)](https://www.fenriryt.me/u/ineedfoundmyway?ref=badge)
+
 </div>
