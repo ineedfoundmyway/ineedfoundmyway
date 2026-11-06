@@ -1,28 +1,64 @@
-[README.md](https://github.com/user-attachments/files/34348876/README.md)
-
-
 <div align="center">
+
+<a id="nyctophile-terminal"></a>
 
 # N Y C T O P H I L E
 
-<a href="https://github.com/ineedfoundmyway"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=B9FF35&background=080A0B&center=true&vCenter=true&width=860&height=100&lines=ineedfoundmyway+%2F%2F+FULLSTACK;C+%2B+JAVA+%2F%2F+THE+FOUNDATION;CYBERSECURITY+%2F%2F+OFFENSIVE+MINDSET;SENIOR+%40+SBM+OFFSHORE" alt="Animated terminal cycling through fullstack, C and Java, cybersecurity and SBM Offshore" width="100%" /></a>
+<a href="https://github.com/ineedfoundmyway?tab=repositories">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/terminal/identity.png" />
+  <img src="assets/terminal/identity.gif" width="100%" alt="Nyctophile terminal: fullstack development, C and Java foundations, offensive research and defensive thinking." />
+</picture>
+</a>
 [![Starred on StarSwap](https://www.fenriryt.me/badge/ineedfoundmyway)](https://www.fenriryt.me/u/ineedfoundmyway?ref=badge)
 
 </div>
 
 <div align="center">
 
-**FULLSTACK DEVELOPER & CYBERSECURITY RESEARCHER**
+**💻 FULLSTACK DEVELOPER & 🛡️ CYBERSECURITY RESEARCHER**
 
 **Senior at SBM Offshore** · Logic built on **C and Java**
 
-[ABOUT](#01--behind-the-handle) &nbsp; / &nbsp; [STACK](#02--the-toolkit) &nbsp; / &nbsp; [SECURITY](#03--the-security-mindset) &nbsp; / &nbsp; [CONNECT](#04--follow-the-source)
+[🤝 PARTNER](#code-partner) &nbsp; / &nbsp; [👤 ABOUT](#about) &nbsp; / &nbsp; [🧰 STACK](#toolkit) &nbsp; / &nbsp; [🛡️ SECURITY](#security) &nbsp; / &nbsp; [🔗 CONNECT](#connect)
 
 </div>
 
 ---
 
-### 01 / Behind the handle
+<a id="code-partner"></a>
+
+<div align="center">
+
+<a href="https://github.com/brunnojob">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/terminal/partner.png" />
+  <img src="assets/terminal/partner.gif" width="100%" alt="Official Code Partner: brunnojob. Shared code, shared review, stronger systems. Open the partner profile." />
+</picture>
+</a>
+
+**🤝 Official Code Partner · [@brunnojob](https://github.com/brunnojob)**
+
+<sub>Shared code. Shared review. Stronger systems.</sub>
+
+<details>
+<summary><strong>🔓 OPEN / partner connection</strong></summary>
+
+<br />
+
+**ineedfoundmyway × brunnojob** — an official code partnership connecting fullstack engineering, security research, and systems thinking.
+
+[Explore the partner profile](https://github.com/brunnojob) · [Browse the partner repositories](https://github.com/brunnojob?tab=repositories)
+
+</details>
+
+</div>
+
+---
+
+<a id="about"></a>
+
+### 01 / 👤 Behind the handle
 
 I am **nyctophile**, known here as **ineedfoundmyway**. A fullstack developer with a solid foundation in programming logic through **C and Java**, working across interfaces, backend services, databases and the systems that connect them.
 
@@ -30,7 +66,14 @@ My approach starts below the framework: understand the algorithm, trace the data
 
 **Build it. Break down how it works. Make it stronger.**
 
-### 02 / The toolkit
+<a id="toolkit"></a>
+
+### 02 / 🧰 The toolkit
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/terminal/toolkit.png" />
+  <img src="assets/terminal/toolkit.gif" width="100%" alt="Animated toolkit: C and Java, fullstack development, security automation, and binary analysis." />
+</picture>
 
 <div align="center">
 
@@ -66,9 +109,16 @@ My approach starts below the framework: understand the algorithm, trace the data
 
 </details>
 
-### 03 / The security mindset
+<a id="security"></a>
 
-**Ethical hacking. Offensive security. Black-hat technique research.**
+### 03 / 🛡️ The security mindset
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/terminal/security.png" />
+  <img src="assets/terminal/security.gif" width="100%" alt="Conceptual research cycle: reconnaissance, analysis, reproduction, and hardening. Decorative animation, not a live scan." />
+</picture>
+
+**🕵️ Ethical hacking. ⚔️ Offensive security. 🛡️ Cyber defense. 🧬 Black-hat technique research.**
 
 I study both ethical and non-ethical hacking approaches to understand the difference between an intended workflow and an exploitable assumption. My technical interests include application security, adversarial thinking, reverse engineering and the relationship between an attack path and its remediation.
 
@@ -93,7 +143,46 @@ I study both ethical and non-ethical hacking approaches to understand the differ
 
 </details>
 
-### 04 / Follow the source
+<details>
+<summary><strong>⚔️ OPEN / offensive research</strong></summary>
+
+<br />
+
+**Application security** — map trust boundaries, inspect web and API behavior, and trace authentication and authorization assumptions.
+
+**Adversarial thinking** — study ethical and non-ethical hacking approaches, exploit patterns, and black-hat tradecraft to understand how systems fail.
+
+**Research output** — a reproducible observation, a clear explanation of impact, and a targeted fix.
+
+</details>
+
+<details>
+<summary><strong>🛡️ OPEN / defense console</strong></summary>
+
+<br />
+
+**Prevention** — least privilege, input validation, secure defaults, and explicit trust boundaries.
+
+**Detection** — meaningful logs, behavioral signals, and evidence that explains what happened.
+
+**Response** — investigate the root cause, contain the impact, and verify the remediation.
+
+</details>
+
+<details>
+<summary><strong>🧬 OPEN / reverse engineering desk</strong></summary>
+
+<br />
+
+**C · C++ · Assembly** — memory behavior, binary structure, execution flow, and system boundaries.
+
+Read the source where available, inspect the compiled behavior, and connect low-level observations to defensive improvements.
+
+</details>
+
+<a id="connect"></a>
+
+### 04 / 🔗 Follow the source
 
 <div align="center">
 
@@ -102,5 +191,18 @@ I study both ethical and non-ethical hacking approaches to understand the differ
 [![HackerSec](https://img.shields.io/badge/HACKERSEC-101410?style=for-the-badge&logo=hackthebox&logoColor=B9FF35)](https://hackersec.com/)
 
 **C & Java at the foundation. Fullstack in practice. Security in the mindset.**
+
+[🤝 Meet @brunnojob](https://github.com/brunnojob) · [⬆ Return to the terminal](#nyctophile-terminal)
+
+<details>
+<summary><strong>🖥️ OPEN / session notes</strong></summary>
+
+<br />
+
+Animations are original visual studies, not live scans or security telemetry. Open a panel to explore a topic, or click the partner banner to visit the profile.
+
+[View the animation source](scripts/render_terminal.py)
+
+</details>
 
 </div>
