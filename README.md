@@ -18,9 +18,9 @@
 **💻 FULLSTACK DEVELOPER & 🛡️ CYBERSECURITY RESEARCHER**
 
 **Senior at SBM Offshore** · Logic built on **C and Java**
-
+**MY STARS [![Starred on StarSwap](https://www.fenriryt.me/badge/ineedfoundmyway)](https://www.fenriryt.me/u/ineedfoundmyway?ref=badge)**
 [🤝 PARTNER](#code-partner) &nbsp; / &nbsp; [👤 ABOUT](#about) &nbsp; / &nbsp; [🧰 STACK](#toolkit) &nbsp; / &nbsp; [🛡️ SECURITY](#security) &nbsp; / &nbsp; [🔗 CONNECT](#connect)
-[![Starred on StarSwap](https://www.fenriryt.me/badge/ineedfoundmyway)](https://www.fenriryt.me/u/ineedfoundmyway?ref=badge)
+
 </div>
 
 ---
