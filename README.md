@@ -20,7 +20,7 @@
 **Senior at SBM Offshore** · Logic built on **C and Java**
 
 [🤝 PARTNER](#code-partner) &nbsp; / &nbsp; [👤 ABOUT](#about) &nbsp; / &nbsp; [🧰 STACK](#toolkit) &nbsp; / &nbsp; [🛡️ SECURITY](#security) &nbsp; / &nbsp; [🔗 CONNECT](#connect)
-
+[![Starred on StarSwap](https://www.fenriryt.me/badge/ineedfoundmyway)](https://www.fenriryt.me/u/ineedfoundmyway?ref=badge)
 </div>
 
 ---
